@@ -22,19 +22,19 @@ flows, and maintainable code.
 
 ## Featured project
 
-<a href="https://github.com/MilynDsilva/Neo-Game-Labs">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=MilynDsilva&repo=Neo-Game-Labs&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff"
-    alt="Neo Game Labs repository"
-  />
-</a>
+### 🎮 [Neo Game Labs](https://github.com/MilynDsilva/Neo-Game-Labs)
 
-**Neo Game Labs** is a customer-facing platform for discovering and purchasing
-games. It brings together a cinematic storefront, secure authentication, a
+> A full-stack platform for discovering, purchasing, and managing games.
+
+Neo Game Labs brings together a cinematic storefront, secure authentication, a
 points wallet, payment checkout, an entitlement-based game library, player
 feedback, and an operations dashboard.
 
-`Next.js` · `NestJS` · `TypeScript` · `MongoDB` · `pnpm` · `Turborepo` · `Docker`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Toolbox
 
@@ -44,21 +44,6 @@ feedback, and an operations dashboard.
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,git,github,flutter,dart&perline=8" alt="Data, tooling, and mobile technologies" />
 </p>
-
-## GitHub activity
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=MilynDsilva&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff"
-    alt="Milyn's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilynDsilva&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e"
-    alt="Milyn's most-used languages"
-  />
-</div>
 
 <div align="center">
 
