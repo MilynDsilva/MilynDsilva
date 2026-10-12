@@ -5,7 +5,7 @@
 ### Web developer building thoughtful, reliable products
 
 [![GitHub followers](https://img.shields.io/github/followers/MilynDsilva?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/MilynDsilva?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=MilynDsilva&style=for-the-badge&color=0e75b6)](https://github.com/MilynDsilva)
+[![Hits](https://hits.sh/github.com/MilynDsilva.svg?style=for-the-badge&color=0e75b6)](https://hits.sh/github.com/MilynDsilva/)
 
 </div>
 
