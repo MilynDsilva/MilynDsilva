@@ -13,7 +13,7 @@ I enjoy turning product ideas into polished web and mobile experiences, with
 attention to the details behind the interface: clear architecture, secure APIs,
 accessible flows, and maintainable code.
 
-- 🎮 Currently building [Neo Game Labs](https://github.com/MilynDsilva/Neo-Game-Labs),
+- 🎮 Currently building [Neo Game Labs](https://github.com/MilynDsilva/neo-game-labs),
   a full-stack game storefront and player platform
 - 🧭 Interested in product engineering, developer experience, and scalable
   application architecture
@@ -23,7 +23,7 @@ accessible flows, and maintainable code.
 
 ## Featured project
 
-### 🎮 [Neo Game Labs](https://github.com/MilynDsilva/Neo-Game-Labs)
+### 🎮 [Neo Game Labs](https://github.com/MilynDsilva/neo-game-labs)
 
 > A full-stack platform for discovering, purchasing, and managing games.
 
